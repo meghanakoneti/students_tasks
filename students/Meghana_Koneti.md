@@ -1,15 +1,15 @@
-# 👨‍💻 Student Profile: Akula Adithya
+# 👨‍💻 Student Profile: Meghana Koneti
 
 ---
 ## 📌 Personal & Contact Details
-* **Full Name:** K.V.S.Meghana
+* **Full Name:** Meghana Koneti
 * **Roll Number / College ID:** 24241a6633
 * **College:** Gokaraju Rangaraju Institute of Engineering & Technology (GRIET)
 * **Department:** Computer Science & Engineering (AIML)
 * **Email (Gmail):** meghanakoneti405@gmail.com
 * **Mobile Number:** 9014463320
-* **LinkedIn Profile:** [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/meghana koneti)
-* **GitHub Profile:** [https://github.com/your-username](https://github.com/meghanakoneti)
+* **LinkedIn Profile:** [meghana koneti](https://www.linkedin.com/in/meghana koneti)
+* **GitHub Profile:** [meghanakoneti](https://github.com/meghanakoneti)
 ---
 ## 🛠️ Technical Skills & Proficiencies
 * **Programming Languages:** Python, C++, SQL, JavaScript
